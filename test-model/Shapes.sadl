@@ -1,0 +1,5 @@
+uri "http://sadl.org/Shapes.sadl".
+
+Shape is a class.
+
+// Shape is a class described by area with values of type float.
